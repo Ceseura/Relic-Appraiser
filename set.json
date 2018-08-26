@@ -1,0 +1,925 @@
+{
+	"relics": [
+		{
+			"tier": "Lith",
+			"name": "Lith B3",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Burston Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Limbo Prime Systems",
+					"rarity": "common"
+				},
+				{
+					"name": "Cernos Prime String",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Orthos Prime Blade",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Ballistica Prime Blueprint",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Lith",
+			"name": "Lith B4",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Ankyros Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Nyx Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Rhino Prime Neuroptics",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Scindo Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Boltor Prime Blueprint",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Lith",
+			"name": "Lith C2",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Bronco Prime Receiver",
+					"rarity": "common"
+				},
+				{
+					"name": "Paris Prime Upper Limb",
+					"rarity": "common"
+				},
+				{
+					"name": "Venka Prime Blades",
+					"rarity": "common"
+				},
+				{
+					"name": "Akbolto Prime Barrel",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Nami Skyla Prime Handle",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Cernos Prime Lower Limb",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Lith",
+			"name": "Lith H2",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Zephyr Prime Neuroptics",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Lex Prime Barrel",
+					"rarity": "common"
+				},
+				{
+					"name": "Orthos Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Oberon Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Helios Prime Cerebrum",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Lith",
+			"name": "Lith P1",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Fang Prime Blade",
+					"rarity": "common"
+				},
+				{
+					"name": "Helios Prime Carapace",
+					"rarity": "common"
+				},
+				{
+					"name": "Sybaris Prime Stock",
+					"rarity": "common"
+				},
+				{
+					"name": "Braton Prime Receiver",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Pyrana Prime Blueprint",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Lith",
+			"name": "Lith T2",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Valkyr Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Lex Prime Barrel",
+					"rarity": "common"
+				},
+				{
+					"name": "Braton Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Silva And Aegis Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Tiberon Prime Stock",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Lith",
+			"name": "Lith V5",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Akbronco Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Banshee Prime Neuroptics",
+					"rarity": "common"
+				},
+				{
+					"name": "Lex Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Akbolto Prime Barrel",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Ballistica Prime Upper Limb",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Valkyr Prime Systems",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Lith",
+			"name": "Lith Z1",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Fang Prime Handle",
+					"rarity": "common"
+				},
+				{
+					"name": "Akbronco Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Mirage Prime Neuroptics",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Cernos Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Zephyr Prime Systems",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Meso",
+			"name": "Meso B2",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Braton Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Oberon Prime Chassis",
+					"rarity": "common"
+				},
+				{
+					"name": "Silva And Aegis Prime Hilt",
+					"rarity": "common"
+				},
+				{
+					"name": "Hydroid Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Kronen Prime Handle",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Banshee Prime Chassis",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Meso",
+			"name": "Meso D2",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Lex Prime Receiver",
+					"rarity": "common"
+				},
+				{
+					"name": "Paris Prime Lower Limb",
+					"rarity": "common"
+				},
+				{
+					"name": "Helios Prime Systems",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Valkyr Prime Neuroptics",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Destreza Prime Blade",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Meso",
+			"name": "Meso N6",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Boltor Prime Barrel",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Hikou Prime Pouch",
+					"rarity": "common"
+				},
+				{
+					"name": "Rhino Prime Chassis",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Scindo Prime Handle",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Nyx Prime Neuroptics",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Meso",
+			"name": "Meso O2",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Tiberon Prime Receiver",
+					"rarity": "common"
+				},
+				{
+					"name": "Paris Prime Lower Limb",
+					"rarity": "common"
+				},
+				{
+					"name": "Cernos Prime Upper Limb",
+					"rarity": "common"
+				},
+				{
+					"name": "Mirage Prime Systems",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Akbronco Prime Link",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Oberon Prime Neuroptics",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Meso",
+			"name": "Meso S7",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Cernos Prime Upper Limb",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Venka Prime Blades",
+					"rarity": "common"
+				},
+				{
+					"name": "Nami Skyla Prime Handle",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Paris Prime Grip",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Sybaris Prime Barrel",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Meso",
+			"name": "Meso T1",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Fang Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Braton Prime Stock",
+					"rarity": "common"
+				},
+				{
+					"name": "Burston Prime Receiver",
+					"rarity": "common"
+				},
+				{
+					"name": "Paris Prime Upper Limb",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Tiberon Prime Barrel",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Meso",
+			"name": "Meso Z1",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Burston Prime Receiver",
+					"rarity": "common"
+				},
+				{
+					"name": "Fang Prime Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Helios Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Limbo Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Zephyr Prime Blueprint",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Neo",
+			"name": "Neo B5",
+			"vaulted": false,
+			"drops": [
+				{
+					"name": "Ballistica Prime Lower Limb",
+					"rarity": "common"
+				},
+				{
+					"name": "Braton Prime Barrel",
+					"rarity": "common"
+				},
+				{
+					"name": "Forma Blueprint",
+					"rarity": "common"
+				},
+				{
+					"name": "Destreza Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Oberon Prime Blueprint",
+					"rarity": "uncommon"
+				},
+				{
+					"name": "Banshee Prime Systems",
+					"rarity": "rare"
+				}
+			]
+		},
+		{
+		"tier": "Neo",
+		"name": "Neo K1",
+		"vaulted": false,
+		"drops": [
+				{
+						"name": "Euphona Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Silva and Aegis Prime Hilt",
+						"rarity": "common"
+				},
+				{
+						"name": "Valkyr Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Helios Prime Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Zephyr Prime Chassis",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Kogake Prime Gauntlet",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Neo",
+			"name": "Neo L1",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Euphona Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Kronen Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Mirage Prime Chassis",
+						"rarity": "common"
+				},
+				{
+						"name": "Ballistica Prime Receiver",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Silva and Aegis Prime Blade",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Limbo Prime Chassis",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Neo",
+			"name": "Neo M1",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Akbolto Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Bronco Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Paris Prime String",
+						"rarity": "common"
+				},
+				{
+						"name": "Euphona Prime Barrel",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Helios Prime Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Mirage Prime Blueprint",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Neo",
+			"name": "Neo N8",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Hydroid Prime Chassis",
+						"rarity": "common"
+				},
+				{
+						"name": "Paris Prime String",
+						"rarity": "common"
+				},
+				{
+						"name": "Sybaris Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Akbolto Prime Link",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Forma Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Nami Skyla Prime Blade",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Neo",
+			"name": "Neo R1",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Ankyros Prime Gauntlet",
+						"rarity": "common"
+				},
+				{
+						"name": "Forma Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Hikou Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Boltor Prime Receiver",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Nyx Prime Chassis",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Rhino Prime Blueprint",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Neo",
+			"name": "Neo S7",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Banshee Prime Neuroptics",
+						"rarity": "common"
+				},
+				{
+						"name": "Fang Prime Blade",
+						"rarity": "common"
+				},
+				{
+						"name": "Helios Prime Carapace",
+						"rarity": "common"
+				},
+				{
+						"name": "Ballistica Prime Receiver",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Sybaris Prime Receiver",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Silva and Aegis Prime Guard",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Neo",
+			"name": "Neo V7",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Akbolto Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Forma Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Pyrana Prime Barrel",
+						"rarity": "common"
+				},
+				{
+						"name": "Banshee Prime Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Cernos Prime Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Valkyr Prime Chassis",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Axi",
+			"name": "Axi A3",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Braton Prime Barrel",
+						"rarity": "common"
+				},
+				{
+						"name": "Helios Prime Carapace",
+						"rarity": "common"
+				},
+				{
+						"name": "Kogake Prime Boot",
+						"rarity": "common"
+				},
+				{
+						"name": "Cernos Prime String",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Hydroid Prime Neuroptics",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Akbolto Prime Receiver",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Axi",
+			"name": "Axi A4",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Braton Prime Stock",
+						"rarity": "common"
+				},
+				{
+						"name": "Forma Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Zephyr Prime Neuroptics",
+						"rarity": "common"
+				},
+				{
+						"name": "Ballistica Prime String",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Fang Prime Handle",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Akbolto Prime Receiver",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Axi",
+			"name": "Axi E2",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Paris Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Lex Prime Receiver",
+						"rarity": "common"
+				},
+				{
+						"name": "Braton Prime Stock",
+						"rarity": "common"
+				},
+				{
+						"name": "Bronco Prime Barrel",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Forma Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Euphona Prime Receiver",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Axi",
+			"name": "Axi H3",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Kronen Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Cernos Prime Grip",
+						"rarity": "common"
+				},
+				{
+						"name": "Helios Prime Carapace",
+						"rarity": "common"
+				},
+				{
+						"name": "Burston Prime Barrel",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Forma Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Hydroid Prime Systems",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Axi",
+			"name": "Axi K3",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Cernos Prime Grip",
+						"rarity": "common"
+				},
+				{
+						"name": "Paris Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Tiberon Prime Receiver",
+						"rarity": "common"
+				},
+				{
+						"name": "Banshee Prime Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Pyrana Prime Receiver",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Kronen Prime Blade",
+						"rarity": "rare"
+				}
+			]
+		},
+		{
+			"tier": "Axi",
+			"name": "Axi L2",
+			"vaulted": false,
+			"drops": [
+				{
+						"name": "Braton Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Nami Skyla Prime Blueprint",
+						"rarity": "common"
+				},
+				{
+						"name": "Orthos Prime Handle",
+						"rarity": "common"
+				},
+				{
+						"name": "Forma Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Tiberon Prime Blueprint",
+						"rarity": "uncommon"
+				},
+				{
+						"name": "Limbo Prime Neuroptics",
+						"rarity": "rare"
+				}
+			]
+		}
+	],
+	"probabilities": {
+		"intact": {
+			"common": 0.2533,
+			"uncommon": 0.11,
+			"rare": 0.02
+		},
+		"exceptional": {
+			"common": 0.2333,
+			"uncommon": 0.13,
+			"rare": 0.04
+		},
+		"flawless": {
+			"common": 0.2,
+			"uncommon": 0.17,
+			"rare": 0.06
+		},
+		"radiant": {
+			"common": 0.1667,
+			"uncommon": 0.2,
+			"rare": 0.1
+		}
+	}
+}
